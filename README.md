@@ -86,3 +86,11 @@ Assalamualaikum, Saya mahasiswa teknik elektro di universitas ichsan gorontalo, 
 [https://github.com/Rizalgente](https://github.com/Rizalgente)
 
 <hr/>
+
+### Made Gun
+
+Salam Damai, perkenalkan saya Made Gunawan dari Bali, keseharian sebagai karyawan swasta disalah satu industri kerajinan di Ubud-Bali,  walau umur agak lewat tidak mengurungkan niat saya untuk belajar bersama adik2 di forum ini, saya newbie pemula dalam bahasa pemograman dan sangat tertarik sekali belajar Golang & Webbased App. 
+
+Salam kenal buat [https://github.com/ekaputra07] Eka Putra,  Salut..Bangga dan Respect buat Eka.
+
+[https://github.com/madegun](https://github.com/madegun)
