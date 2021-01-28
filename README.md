@@ -87,7 +87,7 @@ Assalamualaikum, Saya mahasiswa teknik elektro di universitas ichsan gorontalo, 
 
 <hr/>
 
-### Made Gun
+### Madegun
 
 Salam damai dari Bali, Perkenalkan saya Made Gunawan keseharian sebagai karyawan swasta disalah satu industri kerajinan di Ubud-Bali, Pemula dan sangat tertarik untuk belajar bahasa pemograman Webbased App dan Golang, mohon bimbingan dari teman-teman semua disini. 
 Salam kenal dan respect buat <a href="https://github.com/ekaputra07">@ekaputra</a>
